@@ -42,7 +42,7 @@ This Streamlit web application predicts the **expected health insurance premium*
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/itsmoksh/health-insurance-premium-prediction.git
+   git clone https://github.com/rschaurasiya/ML-project-Health-premium-prediction
    cd health-insurance-premium-prediction
    ```
 
@@ -69,4 +69,4 @@ Check out the **live demo**:
 
 **Radheshyam Chaurasiya**  
 Aspiring Data Scientist | Python & ML Enthusiast  
-[LinkedIn](https://www.linkedin.com/in/itsmoksh/) • [GitHub]()
+[LinkedIn](https://www.linkedin.com/in/itsmoksh/) • [GitHub](https://github.com/rschaurasiya/ML-project-Health-premium-prediction)
