@@ -43,7 +43,7 @@ This Streamlit web application predicts the **expected health insurance premium*
 1. Clone the repo:
    ```bash
    git clone https://github.com/rschaurasiya/ML-project-Health-premium-prediction
-   cd health-insurance-premium-prediction
+   cd ML-project-Health-premium-prediction
    ```
 
 2. Install dependencies:
