@@ -54,7 +54,7 @@ with row4[1]:
 with row4[2]:
     medical_history = st.selectbox('Medical History', categorical_options['Medical History'])
 
-# Create a dictionary for input values
+# Create a dictionary for input value
 input_dict = {
     'Age': age,
     'Number of Dependants': number_of_dependants,
