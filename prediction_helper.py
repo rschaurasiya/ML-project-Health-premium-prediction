@@ -15,7 +15,7 @@ def calculate_normalized_risk(medical_history):
         "no disease": 0,
         "none": 0
     }
-    # Split the medical history into potential two parts and convert to lowercase
+    # Split the medical history into potential two part and convert to lowercase
     diseases = medical_history.lower().split(" & ")
 
     # Calculate the total risk score by summing the risk scores for each part
