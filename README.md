@@ -16,6 +16,7 @@ This Streamlit web application predicts the **expected health insurance premium*
   - Smoking habits and more
 - Backend model trained with regression algorithm
 - One-hot and label encoding used during preprocessing
+- Project Asset [Drive Link](https://drive.google.com/drive/folders/12NGwmSmYZ-Eai0C2y57Y5a9Xc-EsDu2K?usp=sharing)
 - Hosted on [Streamlit Cloud](https://ml-project-health-premium-by-radheshyam.streamlit.app/)
 
 ---
